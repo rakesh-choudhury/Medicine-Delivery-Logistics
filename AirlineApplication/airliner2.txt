@@ -1,0 +1,3 @@
+American Airlines
+AA485,12:34,5:35,Los Angeles,Dallas,005,321,Boeing,150,250
+AA255,5:25,8:20,Hawaii,Los Angeles,006,321,Boeing,150,500
